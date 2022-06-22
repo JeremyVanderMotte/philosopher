@@ -18,3 +18,8 @@ At the beginning of the program all even philosophers will wait 10 milliseconds 
 Then all the threads will work at the same time. They will try to take the two forks. Then eat and finally think. If one of them doesn't eat before `time to die`, he dies and the program stops.  
 Each philosophers have two forks. The left fork is his own and the right fork belongs to the philosopher at his right.  
 If `number of time each philosophers must eat` is used, the program will stop if the condition is met. But if a phisolopher is starving the program will stop.
+
+
+Grade : 
+
+<img width="192" alt="Screen Shot 2022-06-14 at 2 40 21 PM" src="https://user-images.githubusercontent.com/107465256/174995185-6d9609e3-2778-49e8-b010-2ba15427ab6e.png">
